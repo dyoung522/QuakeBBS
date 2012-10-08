@@ -1,3 +1,19 @@
+I wrote this code back in 1996, before the invent of online servers and server
+queues.  It was ment to be a command-line IRC like chat room where people
+could queue up for Quake games and chat with thier friends while they waited.
+
+Of course this is completely obsolete today, but I'm putting the code out
+there for posterity, if no other reason.
+
+Please Note: The email listed below is no longer in service.  Please use the
+email address listed on GitHUB if you wish to reach me.
+
+Thanks,
+
+Donovan (2012)
+
+
+-=-=- Original Readme Below -=-=-
 
 This is the source code to QuakeBBS, originally written by Donovan C.
 Young.  Feel free to use it anyway you see fit as long as you abide by the
